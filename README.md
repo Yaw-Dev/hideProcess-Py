@@ -4,7 +4,7 @@ Full credits to **[imm0r](https://github.com/imm0r)** for the original implement
 
 This project is just the conversion of theirs from AutoHotKey to Python 3. *[Original Repo here](https://github.com/imm0r/hideProcess)*
 
-Known to be functional on Windows 2k, Windows 7, Windows 10 | Win 11 still untested.
+> Known to be functional on Windows 2k, Windows 7, Windows 10 & Windows 11
 
 ## Setup
 1. `git clone https://github.com/Yaw-Dev/hideProcess-Py`
